@@ -1,0 +1,50 @@
+single apple 15p
+adjustment add 10p apple
+single apple 10p
+multiple 10 apple 10p
+adjustment multiply 2p apple
+single banana 10p
+adjustment add 10p banana
+single apple 10p
+multiple 10 banana 10p
+single apple 15p
+adjustment subtract 10p apple
+single apple 10p
+multiple 10 apple 10p
+adjustment multiply 2p apple
+single banana 10p
+single apple 10p
+multiple 10 banana 10p
+single apple 15p
+multiple 10 apple £5
+single apple 10p
+multiple 10 apple 13p
+adjustment multiply 2p apple
+multiple 7 apple 10p
+adjustment add 10p banana
+single apple 10p
+multiple 10 banana 10p
+single apple 15p
+multiple 10 apple £5
+adjustment add 10p apple
+single apple 10p
+multiple 10 apple 10p
+adjustment multiply 2p apple
+single banana 10p
+adjustment add 10p banana
+single apple 10p
+multiple 10 banana 10p
+single apple 15p
+multiple 10 apple £5
+single apple 15p
+multiple 10 apple £5
+adjustment add 10p apple
+single apple 10p
+multiple 10 apple 10p
+adjustment multiply 2p apple
+single banana 10p
+adjustment add 10p banana
+single apple 10p
+adjustment add 10p apple
+single apple 15p
+multiple 10 banana 10p
